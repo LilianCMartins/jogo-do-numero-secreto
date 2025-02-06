@@ -17,7 +17,7 @@ E quando você acertar, o jogo mostra qual o número secreto e com quantas tenta
 
 
 
-## Autora do projeto
+#### Autora do projeto
 
 Lilian Carla dos Santos Martins 
 
