@@ -13,7 +13,7 @@ Desenvolvido ao realizar o curso da Alura em Parceria com a Oracle.
 
 No jogo do número secreto você vai escolher um número entre 1 e 10, até acertar o número.
 O jogo vai informando se o número é maior ou menor.
-E quando você acertar, o jogo mostra qual o número secreto e com quantas tentativas você acertoou.
+E quando você acertar, o jogo mostra qual o número secreto e com quantas tentativas você acertou.
 
 
 
