@@ -1,5 +1,7 @@
-## Projeto Jogo do Número Secreto
-Desenvolvido ao realizar o curso da Alura em Parceria com a Oracle.
+## Jogo do Número Secreto
+
+### Sobre
+Projeto utilizado nos cursos de lógica de programação da Alura em parceria com a Oracle.
 
 ### Tecnologias utilizadas:
 
